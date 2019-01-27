@@ -1,0 +1,41 @@
+{
+  "name": "facebrain2",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.3",
+    "clarifai": "^2.9.0",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-particles-js": "^2.4.2",
+    "react-scripts": "2.1.3",
+    "react-tilt": "^0.1.4",
+    "tachyons": "^4.11.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "description": "facebrain1 folder is before the BackEnd Server.  FrontEnd all needed is here.",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
